@@ -1,2 +1,2 @@
 # EcoBuild
-![ecobuild logo] (assets/EcoBuild_logo.png)
+![ecobuild logo] (https://i.postimg.cc/pdp0Ghpx/Eco-Build-logo.png)
