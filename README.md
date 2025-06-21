@@ -1,2 +1,2 @@
 # EcoBuild
-![ecobuild logo] (https://github.com/SamiraRK/EcoBuild/blob/main/assets/EcoBuild_logo.png)
+![ecobuild logo] (assets/EcoBuild_logo.png)
