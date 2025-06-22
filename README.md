@@ -218,8 +218,9 @@ User Prompt (e.g., "eco-villa in tropical rainforest with bamboo facade")
 <summary><strong>🖼️ Generative Output</strong></summary>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/0c96a3a1-d684-43e5-bdbd-0b05702ecdb1" width="25%"/>
-  <img src="assets/screenshots/gen2.png" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/0c96a3a1-d684-43e5-bdbd-0b05702ecdb1" width="30%"/>
+  <img src="https://github.com/user-attachments/assets/7ef65a2f-d078-462f-b20f-9f3cfcbd691f" width="30%"/>
+
 </p>
 
 </details>
@@ -235,3 +236,15 @@ User Prompt (e.g., "eco-villa in tropical rainforest with bamboo facade")
 </p>
 
 </details>
+
+---
+<details>
+<summary><strong>📉 Carbon Insights</strong></summary>
+
+<p float="left">
+  <img src="assets/screenshots/carbon1.png" width="45%"/>
+  <img src="assets/screenshots/carbon2.png" width="45%"/>
+</p>
+
+</details>
+---
