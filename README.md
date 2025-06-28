@@ -340,4 +340,6 @@ This project is released under the **MIT License**.
 
 ---
 
-> _“If you want to know more about EcoBuild — its AI internals, datasets, diffusion tricks, or domain reasoning — I’m always happy to discuss or collaborate!”_
+>  _“If you want to know more about **EcoBuild** — its AI internals, model architecture, training pipeline, datasets, diffusion tricks, or domain reasoning — I’m always happy to discuss, share insights, or collaborate._  
+>  _Note: The source code, models, and datasets are **not open-sourced**. If you're genuinely interested in learning more, collaborating, or exploring the system for research or partnership, feel free to reach out!”_
+
